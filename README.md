@@ -13,7 +13,7 @@
 
 Voice of Customer (VoC) is a market research methodology used to capture customers' expectations, preferences, and pain points in their own words. Companies use VoC programs to understand *why* customers leave, *what* would bring them back, and *where* the product or service experience is breaking down.
 
-VoC research is standard practice in marketing, SaaS, healthcare, and financial services — anywhere customer retention directly impacts revenue. The output of a VoC study is not just data — it is a prioritized action plan that leadership can act on immediately.
+VoC research is standard practice in marketing, SaaS, healthcare, and financial services anywhere customer retention directly impacts revenue. The output of a VoC study is not just data — it is a prioritized action plan that leadership can act on immediately.
 
 ---
 
