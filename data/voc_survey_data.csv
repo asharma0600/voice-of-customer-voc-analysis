@@ -1,0 +1,601 @@
+customer_id,churn_status,subscription_tier,tenure_months,industry,company_size,region,primary_pain_point,satisfaction_at_exit,repurchase_intent,win_back_receptive,support_tickets_filed,recommended_to_others,monthly_recurring_revenue,open_ended_feedback
+C0001,Churned,Enterprise,19,Technology,51-200 employees,West,Product Quality,1,1,No,5,Yes,1160,Core features promised during the sales process are still not available after months of waiting.
+C0002,Retained,Pro,27,Technology,51-200 employees,Midwest,Product Quality,3,4,N/A,1,No,163,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0003,Churned,Enterprise,5,Healthcare,1-10 employees,South,Competitor Switch,3,2,No,6,Yes,590,The competing platform integrates natively with our CRM which made the decision straightforward.
+C0004,Retained,Basic,45,Education,201+ employees,South,Onboarding & Usability,4,4,N/A,3,No,77,Support has improved recently and we are seeing more value from the Enterprise features.
+C0005,Churned,Basic,19,Finance,1-10 employees,West,Pricing & Value,2,2,No,5,No,93,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0006,Churned,Basic,30,Retail,11-50 employees,Northeast,Pricing & Value,2,1,No,2,No,76,The ROI is simply not there. We cannot justify this cost to our leadership team.
+C0007,Churned,Pro,6,Finance,1-10 employees,Midwest,Product Quality,2,2,No,7,No,175,Core features promised during the sales process are still not available after months of waiting.
+C0008,Retained,Pro,37,Technology,11-50 employees,Northeast,Pricing & Value,3,5,N/A,2,No,184,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0009,Retained,Pro,11,Retail,1-10 employees,Midwest,Pricing & Value,4,4,N/A,2,Yes,277,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0010,Churned,Pro,16,Technology,1-10 employees,South,Product Quality,1,1,Yes,2,No,210,Core features promised during the sales process are still not available after months of waiting.
+C0011,Churned,Enterprise,28,Finance,1-10 employees,South,Customer Support,1,1,No,5,No,937,The help documentation is outdated and support often contradicts what the docs say.
+C0012,At-Risk,Pro,13,Finance,51-200 employees,Midwest,Onboarding & Usability,3,2,Yes,4,Yes,296,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0013,Retained,Basic,44,Finance,11-50 employees,South,Competitor Switch,3,4,N/A,0,No,98,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0014,At-Risk,Pro,4,Finance,201+ employees,West,Competitor Switch,4,3,No,0,No,247,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0015,At-Risk,Basic,10,Healthcare,11-50 employees,West,Onboarding & Usability,3,3,Yes,0,Yes,83,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0016,Churned,Pro,35,Technology,201+ employees,Midwest,Onboarding & Usability,2,2,Yes,4,No,267,Onboarding resources are scattered and there is no structured path for new users.
+C0017,At-Risk,Pro,3,Retail,1-10 employees,West,Pricing & Value,3,2,Yes,2,No,183,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0018,Retained,Basic,46,Healthcare,1-10 employees,Midwest,Competitor Switch,4,4,N/A,2,Yes,81,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0019,Churned,Basic,14,Finance,51-200 employees,Midwest,Product Quality,2,3,Yes,4,No,90,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0020,Retained,Enterprise,30,Technology,11-50 employees,Northeast,Pricing & Value,3,3,N/A,3,No,819,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0021,Churned,Pro,6,Retail,11-50 employees,West,Pricing & Value,1,2,Yes,5,No,218,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0022,Retained,Pro,11,Retail,11-50 employees,West,Product Quality,4,4,N/A,3,Yes,161,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0023,Churned,Basic,5,Finance,51-200 employees,Midwest,Customer Support,2,1,No,5,No,80,The help documentation is outdated and support often contradicts what the docs say.
+C0024,At-Risk,Pro,5,Finance,51-200 employees,South,Product Quality,3,4,Yes,3,Yes,195,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0025,At-Risk,Pro,3,Retail,201+ employees,South,Customer Support,3,2,No,7,Yes,286,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0026,Churned,Pro,31,Education,201+ employees,Northeast,Customer Support,2,1,No,8,Yes,215,We feel ignored. Critical issues sit open for weeks with no meaningful updates.
+C0027,Churned,Basic,29,Finance,11-50 employees,West,Product Quality,1,2,Yes,3,Yes,99,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0028,Churned,Enterprise,4,Finance,11-50 employees,Northeast,Pricing & Value,2,2,Yes,2,No,1162,The ROI is simply not there. We cannot justify this cost to our leadership team.
+C0029,At-Risk,Basic,19,Education,51-200 employees,Midwest,Pricing & Value,3,3,Yes,2,No,97,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0030,At-Risk,Pro,17,Finance,1-10 employees,West,Product Quality,2,3,Yes,4,No,201,Pricing transparency needs to improve or we will explore other options at renewal.
+C0031,Retained,Basic,40,Finance,51-200 employees,Midwest,Onboarding & Usability,4,3,N/A,3,Yes,57,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0032,Churned,Enterprise,2,Healthcare,51-200 employees,South,Product Quality,2,3,No,2,No,630,The product does not integrate with our existing tools which makes it very difficult to use.
+C0033,At-Risk,Basic,21,Finance,51-200 employees,Northeast,Product Quality,3,2,Yes,1,No,68,The product has potential but we need to see significant support improvements to stay.
+C0034,At-Risk,Basic,3,Retail,201+ employees,Northeast,Product Quality,4,2,No,4,No,95,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0035,Retained,Pro,46,Technology,11-50 employees,West,Customer Support,4,5,N/A,9,No,292,Recent product updates have addressed several of our key concerns from last quarter.
+C0036,Churned,Pro,2,Technology,201+ employees,Midwest,Customer Support,2,1,No,14,No,289,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0037,Retained,Basic,35,Education,11-50 employees,South,Onboarding & Usability,3,3,N/A,0,Yes,49,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0038,Retained,Pro,38,Education,11-50 employees,South,Pricing & Value,4,4,N/A,3,No,243,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0039,Retained,Basic,19,Retail,11-50 employees,Northeast,Customer Support,4,4,N/A,7,Yes,49,The onboarding was rough but once we were set up the product has been reliable.
+C0040,At-Risk,Pro,20,Healthcare,51-200 employees,South,Onboarding & Usability,3,3,No,0,No,260,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0041,Retained,Pro,39,Retail,51-200 employees,Midwest,Customer Support,4,4,N/A,14,Yes,200,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0042,Retained,Enterprise,9,Retail,11-50 employees,Northeast,Pricing & Value,5,5,N/A,3,Yes,1044,Recent product updates have addressed several of our key concerns from last quarter.
+C0043,Churned,Pro,33,Technology,51-200 employees,Midwest,Product Quality,2,1,No,4,No,209,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0044,Churned,Pro,5,Technology,201+ employees,West,Onboarding & Usability,1,1,No,3,Yes,269,We were handed off from sales to a junior CSM who did not understand our configuration needs.
+C0045,Churned,Enterprise,1,Technology,1-10 employees,Northeast,Product Quality,1,1,No,7,No,863,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0046,Retained,Pro,23,Healthcare,1-10 employees,Midwest,Pricing & Value,4,4,N/A,0,Yes,176,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0047,Retained,Pro,9,Finance,11-50 employees,Northeast,Customer Support,4,4,N/A,7,Yes,182,The onboarding was rough but once we were set up the product has been reliable.
+C0048,Churned,Pro,2,Technology,11-50 employees,Northeast,Customer Support,3,1,Yes,9,No,152,Every time we contact support we are passed between agents with no continuity.
+C0049,Churned,Pro,15,Finance,51-200 employees,South,Onboarding & Usability,2,3,Yes,7,No,242,Training materials are outdated and do not reflect the current version of the product.
+C0050,At-Risk,Enterprise,7,Retail,11-50 employees,South,Product Quality,2,3,Yes,0,Yes,499,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0051,At-Risk,Pro,3,Technology,51-200 employees,South,Customer Support,3,3,Yes,5,No,278,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0052,At-Risk,Basic,19,Education,51-200 employees,Northeast,Onboarding & Usability,3,3,No,2,No,57,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0053,Retained,Pro,35,Healthcare,51-200 employees,Midwest,Onboarding & Usability,3,4,N/A,1,Yes,237,Recent product updates have addressed several of our key concerns from last quarter.
+C0054,Churned,Basic,28,Retail,11-50 employees,Northeast,Customer Support,2,3,No,6,No,54,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0055,At-Risk,Pro,9,Healthcare,51-200 employees,Northeast,Pricing & Value,4,4,Yes,2,No,234,The product has potential but we need to see significant support improvements to stay.
+C0056,Churned,Pro,4,Finance,11-50 employees,West,Pricing & Value,2,1,No,4,No,263,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0057,Churned,Basic,25,Finance,1-10 employees,South,Competitor Switch,1,1,Yes,5,No,91,We evaluated three alternatives and another platform won on both price and support quality.
+C0058,Churned,Basic,25,Finance,11-50 employees,South,Competitor Switch,2,1,No,7,No,84,A competitor offered a significantly better onboarding experience and comparable features.
+C0059,Churned,Basic,32,Retail,1-10 employees,West,Product Quality,1,3,No,3,No,75,We keep encountering the same technical issues with no permanent fix from the team.
+C0060,At-Risk,Basic,23,Healthcare,11-50 employees,West,Onboarding & Usability,3,3,Yes,3,No,98,We are on the fence. A proactive outreach from our account team would help retain us.
+C0061,Churned,Basic,5,Retail,11-50 employees,South,Onboarding & Usability,1,1,No,6,No,78,We were handed off from sales to a junior CSM who did not understand our configuration needs.
+C0062,At-Risk,Pro,8,Education,11-50 employees,West,Pricing & Value,2,3,Yes,2,No,158,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0063,Retained,Enterprise,13,Retail,201+ employees,South,Product Quality,4,4,N/A,2,No,737,Recent product updates have addressed several of our key concerns from last quarter.
+C0064,Retained,Enterprise,37,Retail,51-200 employees,West,Onboarding & Usability,5,4,N/A,4,Yes,505,Support has improved recently and we are seeing more value from the Enterprise features.
+C0065,Retained,Pro,23,Finance,11-50 employees,West,Onboarding & Usability,5,4,N/A,1,Yes,267,Recent product updates have addressed several of our key concerns from last quarter.
+C0066,Retained,Basic,27,Retail,51-200 employees,South,Onboarding & Usability,3,4,N/A,2,Yes,94,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0067,Churned,Pro,6,Technology,11-50 employees,South,Competitor Switch,2,2,No,6,No,248,A competitor's new release addressed all the feature gaps we had flagged with RetainIQ.
+C0068,Churned,Basic,17,Technology,1-10 employees,South,Product Quality,2,1,No,2,Yes,74,The product does not integrate with our existing tools which makes it very difficult to use.
+C0069,At-Risk,Basic,23,Education,1-10 employees,South,Onboarding & Usability,3,4,Yes,2,Yes,82,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0070,At-Risk,Basic,22,Finance,11-50 employees,South,Product Quality,3,3,Yes,1,No,50,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0071,Churned,Enterprise,23,Finance,11-50 employees,Northeast,Product Quality,2,1,Yes,4,No,828,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0072,At-Risk,Pro,19,Education,201+ employees,Northeast,Pricing & Value,3,4,Yes,0,No,291,The product has potential but we need to see significant support improvements to stay.
+C0073,Retained,Basic,26,Healthcare,51-200 employees,South,Pricing & Value,4,3,N/A,0,Yes,99,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0074,Churned,Pro,25,Healthcare,11-50 employees,West,Product Quality,1,1,No,3,No,256,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0075,At-Risk,Enterprise,12,Education,51-200 employees,West,Onboarding & Usability,3,3,No,2,No,772,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0076,At-Risk,Basic,23,Finance,1-10 employees,Midwest,Customer Support,3,2,Yes,12,Yes,87,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0077,Retained,Pro,42,Technology,201+ employees,West,Product Quality,3,5,N/A,0,Yes,197,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0078,At-Risk,Enterprise,16,Technology,51-200 employees,Northeast,Pricing & Value,4,4,Yes,3,Yes,1073,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0079,Churned,Basic,14,Retail,11-50 employees,West,Onboarding & Usability,2,1,No,5,No,97,Setup took far longer than expected and we never received adequate implementation support.
+C0080,Churned,Pro,5,Technology,201+ employees,Northeast,Onboarding & Usability,3,1,No,4,No,177,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0081,Retained,Pro,39,Education,1-10 employees,West,Customer Support,4,4,N/A,8,No,238,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0082,Churned,Enterprise,30,Retail,201+ employees,West,Customer Support,2,2,Yes,9,No,834,The support team does not understand our use case and the advice is often unhelpful.
+C0083,Retained,Pro,47,Finance,1-10 employees,Midwest,Product Quality,4,4,N/A,4,No,193,Support has improved recently and we are seeing more value from the Enterprise features.
+C0084,Churned,Enterprise,6,Technology,51-200 employees,Northeast,Product Quality,1,2,No,2,No,1198,The mobile app is essentially unusable compared to the desktop version.
+C0085,Churned,Pro,26,Retail,11-50 employees,South,Product Quality,3,2,Yes,4,Yes,160,We experienced significant data sync issues that impacted our daily operations.
+C0086,Retained,Enterprise,34,Healthcare,11-50 employees,West,Pricing & Value,4,4,N/A,3,Yes,531,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0087,Churned,Basic,5,Finance,51-200 employees,Midwest,Customer Support,1,2,No,7,No,80,The support team does not understand our use case and the advice is often unhelpful.
+C0088,Churned,Pro,5,Technology,1-10 employees,South,Pricing & Value,1,1,No,2,No,163,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0089,Retained,Pro,13,Retail,1-10 employees,Northeast,Product Quality,4,3,N/A,2,No,198,Recent product updates have addressed several of our key concerns from last quarter.
+C0090,At-Risk,Pro,16,Finance,11-50 employees,Midwest,Pricing & Value,3,2,Yes,0,Yes,265,We are on the fence. A proactive outreach from our account team would help retain us.
+C0091,Churned,Basic,26,Technology,201+ employees,Northeast,Customer Support,2,3,No,11,No,59,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0092,At-Risk,Pro,12,Healthcare,11-50 employees,West,Pricing & Value,4,2,Yes,0,Yes,225,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0093,At-Risk,Enterprise,12,Retail,11-50 employees,West,Product Quality,2,3,Yes,0,No,857,Pricing transparency needs to improve or we will explore other options at renewal.
+C0094,At-Risk,Pro,17,Technology,1-10 employees,Midwest,Onboarding & Usability,2,4,Yes,1,No,275,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0095,At-Risk,Pro,15,Technology,51-200 employees,Midwest,Pricing & Value,2,3,Yes,4,No,199,We are on the fence. A proactive outreach from our account team would help retain us.
+C0096,At-Risk,Basic,21,Healthcare,51-200 employees,South,Pricing & Value,2,2,Yes,3,No,97,We are on the fence. A proactive outreach from our account team would help retain us.
+C0097,At-Risk,Pro,20,Finance,51-200 employees,West,Onboarding & Usability,3,3,Yes,3,Yes,227,Pricing transparency needs to improve or we will explore other options at renewal.
+C0098,Churned,Basic,19,Retail,11-50 employees,Northeast,Product Quality,2,1,No,3,No,92,The product does not integrate with our existing tools which makes it very difficult to use.
+C0099,Churned,Basic,35,Finance,1-10 employees,West,Pricing & Value,1,2,Yes,5,No,50,We found a competitor offering the same core functionality at half the price.
+C0100,Churned,Basic,6,Technology,1-10 employees,Northeast,Customer Support,2,1,Yes,14,No,60,The support team does not understand our use case and the advice is often unhelpful.
+C0101,At-Risk,Pro,19,Technology,11-50 employees,West,Pricing & Value,3,4,Yes,2,Yes,262,The product has potential but we need to see significant support improvements to stay.
+C0102,Churned,Pro,5,Retail,201+ employees,Midwest,Pricing & Value,2,1,No,4,No,274,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0103,At-Risk,Pro,22,Finance,1-10 employees,Northeast,Product Quality,2,2,No,3,No,233,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0104,Churned,Pro,22,Technology,51-200 employees,Midwest,Customer Support,2,3,No,14,No,237,Live chat support is unavailable during our business hours which are not US Eastern time.
+C0105,Churned,Pro,2,Healthcare,11-50 employees,South,Onboarding & Usability,3,2,Yes,2,No,216,Training materials are outdated and do not reflect the current version of the product.
+C0106,At-Risk,Pro,21,Retail,11-50 employees,Midwest,Onboarding & Usability,3,2,Yes,4,No,213,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0107,At-Risk,Pro,5,Retail,201+ employees,West,Product Quality,2,3,Yes,1,No,157,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0108,Retained,Basic,10,Finance,51-200 employees,South,Customer Support,4,4,N/A,14,No,96,Support has improved recently and we are seeing more value from the Enterprise features.
+C0109,Churned,Enterprise,5,Healthcare,11-50 employees,West,Competitor Switch,1,3,No,3,No,871,The competing platform integrates natively with our CRM which made the decision straightforward.
+C0110,Churned,Pro,2,Finance,1-10 employees,South,Customer Support,1,1,No,13,No,289,Issues are closed without being resolved and we have to reopen the same tickets repeatedly.
+C0111,Retained,Pro,12,Retail,11-50 employees,West,Onboarding & Usability,4,4,N/A,2,Yes,267,Support has improved recently and we are seeing more value from the Enterprise features.
+C0112,Churned,Basic,19,Finance,1-10 employees,Midwest,Pricing & Value,1,1,No,5,No,87,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0113,Churned,Enterprise,1,Retail,11-50 employees,West,Product Quality,1,1,Yes,4,Yes,575,We experienced significant data sync issues that impacted our daily operations.
+C0114,At-Risk,Basic,9,Education,51-200 employees,Midwest,Pricing & Value,2,3,No,3,No,74,The product has potential but we need to see significant support improvements to stay.
+C0115,At-Risk,Basic,3,Retail,201+ employees,South,Product Quality,3,2,Yes,1,No,53,Pricing transparency needs to improve or we will explore other options at renewal.
+C0116,Churned,Basic,13,Technology,51-200 employees,Northeast,Pricing & Value,2,2,Yes,7,No,92,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0117,Churned,Pro,4,Finance,51-200 employees,Northeast,Competitor Switch,2,1,Yes,4,No,266,A competitor approached us with a migration offer that made the switch financially compelling.
+C0118,Churned,Basic,32,Technology,201+ employees,South,Onboarding & Usability,2,1,No,3,No,93,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0119,Churned,Pro,4,Retail,51-200 employees,South,Competitor Switch,2,3,No,3,No,197,After two years we decided to consolidate our tools and RetainIQ did not make the final cut.
+C0120,At-Risk,Basic,9,Finance,1-10 employees,West,Customer Support,2,3,Yes,5,No,83,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0121,At-Risk,Pro,16,Technology,1-10 employees,West,Product Quality,3,3,Yes,4,Yes,284,We are on the fence. A proactive outreach from our account team would help retain us.
+C0122,At-Risk,Enterprise,22,Finance,11-50 employees,Northeast,Customer Support,2,3,Yes,5,No,1015,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0123,Churned,Pro,1,Technology,1-10 employees,Northeast,Product Quality,1,1,Yes,5,No,152,Core features promised during the sales process are still not available after months of waiting.
+C0124,At-Risk,Enterprise,20,Finance,51-200 employees,Northeast,Product Quality,4,3,Yes,2,No,953,The product has potential but we need to see significant support improvements to stay.
+C0125,At-Risk,Basic,17,Technology,11-50 employees,Midwest,Pricing & Value,3,2,Yes,4,No,69,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0126,At-Risk,Basic,23,Education,1-10 employees,Northeast,Customer Support,2,3,Yes,11,No,83,The product has potential but we need to see significant support improvements to stay.
+C0127,Retained,Enterprise,34,Technology,201+ employees,Midwest,Customer Support,5,4,N/A,11,No,698,Recent product updates have addressed several of our key concerns from last quarter.
+C0128,Churned,Enterprise,5,Healthcare,11-50 employees,West,Product Quality,2,1,Yes,2,No,775,We experienced significant data sync issues that impacted our daily operations.
+C0129,Retained,Pro,10,Education,11-50 employees,South,Pricing & Value,5,3,N/A,1,Yes,259,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0130,Churned,Basic,15,Healthcare,201+ employees,South,Onboarding & Usability,2,2,Yes,3,No,58,Setup took far longer than expected and we never received adequate implementation support.
+C0131,At-Risk,Enterprise,4,Healthcare,1-10 employees,Midwest,Product Quality,2,4,Yes,0,No,622,Pricing transparency needs to improve or we will explore other options at renewal.
+C0132,At-Risk,Pro,19,Finance,11-50 employees,West,Pricing & Value,2,4,No,0,No,166,Pricing transparency needs to improve or we will explore other options at renewal.
+C0133,Retained,Pro,16,Finance,51-200 employees,Northeast,Customer Support,5,4,N/A,5,Yes,177,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0134,Retained,Pro,42,Retail,51-200 employees,Northeast,Pricing & Value,4,4,N/A,2,Yes,178,The onboarding was rough but once we were set up the product has been reliable.
+C0135,Churned,Basic,14,Retail,1-10 employees,Midwest,Product Quality,1,2,Yes,3,No,69,The product does not integrate with our existing tools which makes it very difficult to use.
+C0136,At-Risk,Basic,14,Education,11-50 employees,Midwest,Pricing & Value,2,4,Yes,2,No,64,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0137,Retained,Pro,42,Finance,1-10 employees,South,Pricing & Value,3,4,N/A,1,Yes,152,Recent product updates have addressed several of our key concerns from last quarter.
+C0138,At-Risk,Basic,18,Technology,1-10 employees,Midwest,Product Quality,3,2,Yes,1,No,67,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0139,At-Risk,Pro,21,Retail,11-50 employees,South,Customer Support,2,3,Yes,5,No,195,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0140,Churned,Basic,22,Retail,11-50 employees,South,Competitor Switch,1,2,No,4,No,61,We evaluated three alternatives and another platform won on both price and support quality.
+C0141,Retained,Basic,40,Education,51-200 employees,South,Pricing & Value,5,5,N/A,4,Yes,68,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0142,Retained,Enterprise,29,Education,11-50 employees,Northeast,Onboarding & Usability,5,4,N/A,3,Yes,1041,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0143,Churned,Basic,34,Technology,1-10 employees,West,Product Quality,1,2,No,6,Yes,54,The product does not integrate with our existing tools which makes it very difficult to use.
+C0144,At-Risk,Basic,9,Finance,201+ employees,Midwest,Product Quality,2,3,Yes,4,No,90,We are on the fence. A proactive outreach from our account team would help retain us.
+C0145,Churned,Pro,30,Retail,11-50 employees,Northeast,Pricing & Value,1,1,Yes,5,No,219,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0146,At-Risk,Basic,19,Finance,51-200 employees,Midwest,Pricing & Value,2,3,Yes,4,No,53,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0147,At-Risk,Pro,17,Technology,11-50 employees,South,Customer Support,4,3,Yes,4,No,283,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0148,Churned,Enterprise,31,Retail,11-50 employees,Northeast,Product Quality,2,3,No,3,No,542,We experienced significant data sync issues that impacted our daily operations.
+C0149,Retained,Basic,24,Technology,11-50 employees,South,Pricing & Value,3,4,N/A,3,Yes,76,Support has improved recently and we are seeing more value from the Enterprise features.
+C0150,Retained,Pro,25,Technology,11-50 employees,South,Pricing & Value,3,5,N/A,4,Yes,175,The onboarding was rough but once we were set up the product has been reliable.
+C0151,Churned,Pro,3,Healthcare,1-10 employees,South,Pricing & Value,1,3,No,7,No,277,The price increased 30% at renewal with no new features or improvements to justify it.
+C0152,Retained,Enterprise,32,Education,11-50 employees,Midwest,Pricing & Value,3,3,N/A,3,No,1143,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0153,Churned,Pro,22,Technology,1-10 employees,South,Pricing & Value,1,1,No,5,No,178,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0154,Retained,Pro,23,Finance,11-50 employees,Northeast,Onboarding & Usability,4,5,N/A,0,No,256,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0155,Churned,Basic,4,Technology,1-10 employees,Midwest,Onboarding & Usability,1,2,Yes,4,No,52,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0156,Retained,Enterprise,44,Technology,1-10 employees,Midwest,Onboarding & Usability,3,5,N/A,2,Yes,749,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0157,Churned,Basic,6,Finance,11-50 employees,West,Onboarding & Usability,2,1,No,7,No,74,Setup took far longer than expected and we never received adequate implementation support.
+C0158,Retained,Basic,12,Finance,11-50 employees,Northeast,Pricing & Value,4,5,N/A,0,Yes,67,Recent product updates have addressed several of our key concerns from last quarter.
+C0159,Churned,Pro,25,Retail,11-50 employees,West,Customer Support,1,2,Yes,7,No,156,We feel ignored. Critical issues sit open for weeks with no meaningful updates.
+C0160,Churned,Basic,1,Technology,1-10 employees,West,Pricing & Value,3,3,Yes,6,No,96,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0161,Retained,Enterprise,6,Retail,201+ employees,Midwest,Product Quality,4,3,N/A,3,Yes,1025,Support has improved recently and we are seeing more value from the Enterprise features.
+C0162,At-Risk,Pro,21,Education,51-200 employees,South,Product Quality,3,2,Yes,4,No,234,We are on the fence. A proactive outreach from our account team would help retain us.
+C0163,At-Risk,Basic,20,Healthcare,1-10 employees,South,Customer Support,3,2,Yes,13,Yes,49,We are on the fence. A proactive outreach from our account team would help retain us.
+C0164,Churned,Pro,6,Healthcare,201+ employees,Midwest,Product Quality,1,1,No,6,Yes,210,Performance has deteriorated significantly and the product is slower than when we started.
+C0165,At-Risk,Basic,21,Technology,11-50 employees,Midwest,Onboarding & Usability,3,2,Yes,2,No,59,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0166,Retained,Pro,17,Retail,1-10 employees,Midwest,Pricing & Value,4,5,N/A,3,Yes,156,Recent product updates have addressed several of our key concerns from last quarter.
+C0167,At-Risk,Pro,4,Technology,1-10 employees,Midwest,Pricing & Value,4,3,Yes,3,No,232,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0168,At-Risk,Pro,4,Retail,51-200 employees,South,Onboarding & Usability,3,3,Yes,0,No,176,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0169,Retained,Enterprise,46,Finance,1-10 employees,Midwest,Pricing & Value,4,4,N/A,4,No,711,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0170,Churned,Basic,3,Healthcare,11-50 employees,South,Product Quality,2,3,No,5,Yes,82,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0171,Retained,Basic,41,Education,11-50 employees,South,Customer Support,4,4,N/A,8,Yes,55,The onboarding was rough but once we were set up the product has been reliable.
+C0172,Churned,Basic,3,Finance,1-10 employees,South,Pricing & Value,2,1,Yes,5,Yes,86,The price increased 30% at renewal with no new features or improvements to justify it.
+C0173,At-Risk,Enterprise,6,Healthcare,11-50 employees,West,Product Quality,2,4,Yes,2,Yes,623,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0174,Retained,Basic,28,Technology,1-10 employees,West,Pricing & Value,5,4,N/A,4,No,61,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0175,Retained,Pro,18,Technology,1-10 employees,Northeast,Pricing & Value,5,5,N/A,2,Yes,190,Recent product updates have addressed several of our key concerns from last quarter.
+C0176,Churned,Enterprise,4,Education,51-200 employees,South,Pricing & Value,3,1,No,5,No,597,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0177,Churned,Basic,4,Technology,51-200 employees,South,Pricing & Value,1,3,No,4,Yes,93,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0178,At-Risk,Pro,14,Healthcare,11-50 employees,Northeast,Competitor Switch,4,3,Yes,3,No,218,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0179,Churned,Pro,30,Technology,1-10 employees,West,Onboarding & Usability,3,1,No,5,No,257,Onboarding resources are scattered and there is no structured path for new users.
+C0180,Retained,Enterprise,24,Education,1-10 employees,West,Customer Support,4,3,N/A,10,Yes,978,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0181,At-Risk,Pro,14,Education,1-10 employees,Northeast,Onboarding & Usability,2,2,No,2,Yes,262,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0182,Churned,Pro,24,Finance,11-50 employees,South,Onboarding & Usability,2,2,No,3,Yes,171,Setup took far longer than expected and we never received adequate implementation support.
+C0183,Churned,Pro,24,Healthcare,1-10 employees,South,Product Quality,3,2,Yes,2,No,272,The mobile app is essentially unusable compared to the desktop version.
+C0184,Churned,Enterprise,3,Technology,11-50 employees,South,Product Quality,1,1,No,2,No,1031,Core features promised during the sales process are still not available after months of waiting.
+C0185,At-Risk,Enterprise,12,Finance,11-50 employees,South,Pricing & Value,3,2,Yes,1,Yes,551,We are on the fence. A proactive outreach from our account team would help retain us.
+C0186,Retained,Basic,36,Technology,1-10 employees,West,Customer Support,3,5,N/A,14,No,89,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0187,At-Risk,Enterprise,20,Retail,201+ employees,South,Customer Support,2,4,Yes,14,No,1157,We are on the fence. A proactive outreach from our account team would help retain us.
+C0188,Retained,Pro,11,Retail,1-10 employees,Midwest,Customer Support,5,3,N/A,13,No,208,Support has improved recently and we are seeing more value from the Enterprise features.
+C0189,Churned,Basic,28,Healthcare,11-50 employees,West,Competitor Switch,1,1,No,6,No,90,Our industry peers have migrated to a competing platform and we followed after their recommendation.
+C0190,Churned,Pro,3,Finance,51-200 employees,South,Onboarding & Usability,1,2,Yes,3,No,285,We were left to figure things out on our own after the first two weeks of setup.
+C0191,At-Risk,Basic,11,Finance,1-10 employees,West,Product Quality,3,3,Yes,3,Yes,92,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0192,Churned,Basic,6,Healthcare,11-50 employees,Midwest,Product Quality,2,1,No,3,No,70,Performance has deteriorated significantly and the product is slower than when we started.
+C0193,At-Risk,Basic,13,Education,1-10 employees,Northeast,Onboarding & Usability,2,3,No,3,No,64,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0194,Retained,Basic,11,Retail,11-50 employees,South,Pricing & Value,4,4,N/A,1,Yes,55,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0195,Retained,Pro,37,Education,51-200 employees,West,Onboarding & Usability,5,5,N/A,4,Yes,207,Recent product updates have addressed several of our key concerns from last quarter.
+C0196,At-Risk,Basic,14,Retail,51-200 employees,Northeast,Product Quality,4,4,No,3,No,98,The product has potential but we need to see significant support improvements to stay.
+C0197,At-Risk,Enterprise,12,Retail,51-200 employees,West,Customer Support,2,4,Yes,7,Yes,910,Pricing transparency needs to improve or we will explore other options at renewal.
+C0198,At-Risk,Pro,11,Education,11-50 employees,Northeast,Pricing & Value,3,4,Yes,0,No,202,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0199,At-Risk,Basic,8,Healthcare,201+ employees,South,Onboarding & Usability,3,3,Yes,2,Yes,78,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0200,Retained,Pro,36,Education,11-50 employees,Midwest,Customer Support,5,4,N/A,6,Yes,212,Recent product updates have addressed several of our key concerns from last quarter.
+C0201,At-Risk,Basic,20,Education,201+ employees,Midwest,Competitor Switch,2,4,No,1,No,65,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0202,Retained,Basic,35,Retail,51-200 employees,West,Pricing & Value,4,4,N/A,1,Yes,70,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0203,At-Risk,Enterprise,23,Technology,11-50 employees,South,Product Quality,2,4,Yes,2,Yes,653,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0204,Churned,Basic,13,Healthcare,11-50 employees,South,Product Quality,2,1,No,6,No,78,The product does not integrate with our existing tools which makes it very difficult to use.
+C0205,Churned,Pro,15,Technology,201+ employees,Northeast,Competitor Switch,3,3,Yes,4,No,189,A competitor's new release addressed all the feature gaps we had flagged with RetainIQ.
+C0206,Churned,Pro,35,Healthcare,51-200 employees,South,Customer Support,2,1,No,10,No,188,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0207,Churned,Pro,1,Finance,51-200 employees,Midwest,Onboarding & Usability,1,1,Yes,4,No,277,We were left to figure things out on our own after the first two weeks of setup.
+C0208,Retained,Pro,8,Healthcare,11-50 employees,South,Pricing & Value,4,3,N/A,3,Yes,257,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0209,Churned,Basic,1,Finance,51-200 employees,Midwest,Product Quality,1,1,No,7,No,95,The mobile app is essentially unusable compared to the desktop version.
+C0210,At-Risk,Enterprise,7,Technology,51-200 employees,South,Pricing & Value,4,2,Yes,2,Yes,1049,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0211,Churned,Basic,2,Healthcare,51-200 employees,South,Product Quality,2,1,No,7,Yes,65,We keep encountering the same technical issues with no permanent fix from the team.
+C0212,At-Risk,Pro,6,Technology,201+ employees,Midwest,Competitor Switch,3,2,Yes,2,Yes,149,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0213,Churned,Basic,17,Technology,51-200 employees,South,Product Quality,1,2,No,6,No,49,Core features promised during the sales process are still not available after months of waiting.
+C0214,Churned,Enterprise,12,Healthcare,11-50 employees,Northeast,Customer Support,1,2,No,12,No,691,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0215,At-Risk,Enterprise,18,Finance,11-50 employees,South,Product Quality,4,2,Yes,1,No,811,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0216,Retained,Enterprise,23,Healthcare,201+ employees,Midwest,Customer Support,3,4,N/A,8,No,781,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0217,At-Risk,Basic,3,Education,51-200 employees,South,Customer Support,3,3,Yes,5,No,78,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0218,Churned,Basic,35,Retail,201+ employees,South,Customer Support,3,3,Yes,13,No,65,The support team does not understand our use case and the advice is often unhelpful.
+C0219,At-Risk,Basic,19,Education,51-200 employees,Northeast,Customer Support,2,2,Yes,5,Yes,72,The product has potential but we need to see significant support improvements to stay.
+C0220,Retained,Basic,25,Technology,51-200 employees,South,Pricing & Value,4,5,N/A,4,Yes,82,Support has improved recently and we are seeing more value from the Enterprise features.
+C0221,Churned,Basic,13,Retail,51-200 employees,South,Competitor Switch,1,1,No,7,No,99,A competitor offered a significantly better onboarding experience and comparable features.
+C0222,Churned,Pro,1,Finance,11-50 employees,West,Competitor Switch,1,2,Yes,7,Yes,293,We evaluated three alternatives and another platform won on both price and support quality.
+C0223,Retained,Enterprise,9,Retail,51-200 employees,Northeast,Pricing & Value,5,3,N/A,3,Yes,875,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0224,Retained,Basic,38,Retail,11-50 employees,Midwest,Customer Support,4,4,N/A,11,Yes,59,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0225,Retained,Basic,41,Retail,1-10 employees,Midwest,Competitor Switch,4,4,N/A,1,No,86,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0226,At-Risk,Pro,19,Finance,51-200 employees,West,Onboarding & Usability,4,4,Yes,2,No,150,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0227,At-Risk,Basic,17,Retail,1-10 employees,South,Product Quality,4,2,Yes,0,No,61,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0228,Churned,Pro,17,Education,51-200 employees,South,Product Quality,1,1,Yes,3,Yes,169,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0229,Churned,Basic,35,Education,11-50 employees,Midwest,Product Quality,2,1,No,6,No,94,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0230,Retained,Enterprise,26,Healthcare,11-50 employees,Midwest,Competitor Switch,3,5,N/A,0,Yes,963,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0231,Churned,Pro,5,Healthcare,11-50 employees,Midwest,Customer Support,1,2,No,8,No,256,The support team does not understand our use case and the advice is often unhelpful.
+C0232,At-Risk,Enterprise,12,Technology,1-10 employees,West,Pricing & Value,3,2,Yes,2,No,625,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0233,At-Risk,Basic,3,Retail,1-10 employees,South,Pricing & Value,3,3,Yes,1,Yes,82,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0234,Churned,Basic,2,Finance,51-200 employees,Midwest,Customer Support,3,1,No,8,No,49,Live chat support is unavailable during our business hours which are not US Eastern time.
+C0235,Churned,Pro,33,Healthcare,1-10 employees,West,Pricing & Value,2,2,No,4,No,266,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0236,Churned,Basic,6,Technology,51-200 employees,Northeast,Customer Support,1,1,No,12,No,88,Issues are closed without being resolved and we have to reopen the same tickets repeatedly.
+C0237,Retained,Pro,34,Healthcare,201+ employees,Midwest,Pricing & Value,4,4,N/A,2,No,208,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0238,Retained,Basic,36,Retail,51-200 employees,South,Onboarding & Usability,5,4,N/A,0,No,84,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0239,At-Risk,Basic,7,Finance,11-50 employees,South,Product Quality,3,3,Yes,3,No,54,The product has potential but we need to see significant support improvements to stay.
+C0240,At-Risk,Pro,12,Finance,51-200 employees,South,Customer Support,3,3,Yes,11,No,278,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0241,At-Risk,Basic,21,Retail,51-200 employees,Midwest,Onboarding & Usability,3,4,Yes,0,Yes,95,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0242,At-Risk,Enterprise,12,Technology,1-10 employees,Midwest,Pricing & Value,4,4,No,3,Yes,702,We are on the fence. A proactive outreach from our account team would help retain us.
+C0243,Churned,Enterprise,35,Finance,51-200 employees,Northeast,Onboarding & Usability,1,1,No,6,No,575,We were left to figure things out on our own after the first two weeks of setup.
+C0244,Churned,Basic,4,Healthcare,1-10 employees,Northeast,Pricing & Value,2,3,No,4,No,79,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0245,Retained,Pro,40,Finance,51-200 employees,South,Product Quality,3,5,N/A,0,Yes,248,Support has improved recently and we are seeing more value from the Enterprise features.
+C0246,Retained,Pro,30,Technology,11-50 employees,West,Product Quality,4,5,N/A,1,No,209,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0247,Churned,Pro,16,Retail,51-200 employees,Midwest,Competitor Switch,2,2,No,2,No,180,We evaluated three alternatives and another platform won on both price and support quality.
+C0248,Churned,Pro,1,Technology,1-10 employees,West,Pricing & Value,2,2,Yes,5,No,241,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0249,At-Risk,Enterprise,22,Retail,11-50 employees,Midwest,Competitor Switch,3,3,Yes,4,Yes,936,We are on the fence. A proactive outreach from our account team would help retain us.
+C0250,Churned,Pro,28,Finance,201+ employees,Northeast,Onboarding & Usability,3,2,Yes,6,No,236,Training materials are outdated and do not reflect the current version of the product.
+C0251,At-Risk,Enterprise,10,Education,11-50 employees,South,Competitor Switch,3,2,Yes,4,No,562,Pricing transparency needs to improve or we will explore other options at renewal.
+C0252,Churned,Basic,3,Technology,1-10 employees,Northeast,Competitor Switch,1,1,No,6,No,88,After two years we decided to consolidate our tools and RetainIQ did not make the final cut.
+C0253,Churned,Basic,2,Finance,1-10 employees,Northeast,Customer Support,1,3,Yes,7,No,79,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0254,Churned,Pro,6,Healthcare,11-50 employees,West,Onboarding & Usability,1,1,Yes,5,Yes,293,Setup took far longer than expected and we never received adequate implementation support.
+C0255,Churned,Pro,5,Education,1-10 employees,South,Competitor Switch,2,1,Yes,6,No,180,A competitor offered a significantly better onboarding experience and comparable features.
+C0256,At-Risk,Pro,8,Technology,201+ employees,Northeast,Onboarding & Usability,3,4,Yes,3,No,210,Pricing transparency needs to improve or we will explore other options at renewal.
+C0257,At-Risk,Pro,6,Healthcare,201+ employees,South,Competitor Switch,4,3,Yes,3,No,279,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0258,At-Risk,Basic,8,Healthcare,201+ employees,Northeast,Customer Support,3,3,Yes,4,Yes,79,We are on the fence. A proactive outreach from our account team would help retain us.
+C0259,At-Risk,Pro,6,Healthcare,1-10 employees,West,Product Quality,4,4,Yes,4,No,277,We are on the fence. A proactive outreach from our account team would help retain us.
+C0260,At-Risk,Enterprise,17,Education,51-200 employees,Midwest,Onboarding & Usability,3,3,No,1,No,784,Pricing transparency needs to improve or we will explore other options at renewal.
+C0261,Churned,Basic,5,Technology,201+ employees,West,Customer Support,2,3,No,8,No,71,Every time we contact support we are passed between agents with no continuity.
+C0262,Retained,Pro,21,Technology,11-50 employees,West,Customer Support,3,5,N/A,12,Yes,220,Support has improved recently and we are seeing more value from the Enterprise features.
+C0263,At-Risk,Basic,19,Healthcare,11-50 employees,Midwest,Product Quality,3,4,No,1,Yes,86,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0264,Churned,Basic,28,Education,1-10 employees,South,Product Quality,1,2,No,5,No,52,We keep encountering the same technical issues with no permanent fix from the team.
+C0265,At-Risk,Enterprise,5,Technology,1-10 employees,South,Product Quality,2,4,Yes,0,Yes,990,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0266,Churned,Pro,2,Finance,51-200 employees,Northeast,Customer Support,2,2,No,13,Yes,215,Live chat support is unavailable during our business hours which are not US Eastern time.
+C0267,Churned,Pro,2,Education,51-200 employees,West,Onboarding & Usability,3,3,Yes,2,No,214,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0268,Churned,Pro,17,Technology,1-10 employees,Northeast,Competitor Switch,1,2,No,2,No,218,A competitor's new release addressed all the feature gaps we had flagged with RetainIQ.
+C0269,Churned,Enterprise,3,Technology,201+ employees,Northeast,Customer Support,1,2,No,8,Yes,1047,Issues are closed without being resolved and we have to reopen the same tickets repeatedly.
+C0270,At-Risk,Pro,21,Healthcare,51-200 employees,Northeast,Pricing & Value,3,2,Yes,2,No,273,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0271,Churned,Basic,4,Finance,11-50 employees,Midwest,Product Quality,3,2,Yes,3,No,90,The mobile app is essentially unusable compared to the desktop version.
+C0272,Retained,Basic,31,Healthcare,51-200 employees,West,Product Quality,5,4,N/A,4,Yes,54,Support has improved recently and we are seeing more value from the Enterprise features.
+C0273,Churned,Basic,17,Retail,201+ employees,South,Product Quality,1,2,No,3,No,68,Core features promised during the sales process are still not available after months of waiting.
+C0274,Churned,Basic,3,Healthcare,201+ employees,West,Pricing & Value,2,1,No,3,No,96,Value for money compared to competitors has declined significantly over the past year.
+C0275,At-Risk,Pro,16,Retail,51-200 employees,Northeast,Customer Support,2,2,Yes,7,Yes,238,We are on the fence. A proactive outreach from our account team would help retain us.
+C0276,Retained,Basic,44,Healthcare,1-10 employees,Midwest,Customer Support,5,5,N/A,6,Yes,87,Recent product updates have addressed several of our key concerns from last quarter.
+C0277,Retained,Basic,39,Finance,11-50 employees,Midwest,Onboarding & Usability,3,5,N/A,1,Yes,94,Recent product updates have addressed several of our key concerns from last quarter.
+C0278,At-Risk,Basic,12,Education,11-50 employees,South,Pricing & Value,2,2,Yes,2,Yes,91,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0279,At-Risk,Enterprise,3,Retail,51-200 employees,Northeast,Customer Support,3,2,No,6,No,574,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0280,Churned,Pro,5,Technology,1-10 employees,South,Competitor Switch,2,1,No,2,No,206,A competitor offered a significantly better onboarding experience and comparable features.
+C0281,Churned,Basic,32,Healthcare,1-10 employees,West,Competitor Switch,1,1,No,5,No,90,A competitor offered a significantly better onboarding experience and comparable features.
+C0282,Retained,Pro,47,Retail,51-200 employees,Northeast,Pricing & Value,4,5,N/A,1,Yes,207,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0283,Churned,Basic,22,Finance,1-10 employees,Northeast,Product Quality,1,2,No,5,No,76,We keep encountering the same technical issues with no permanent fix from the team.
+C0284,Churned,Pro,5,Technology,11-50 employees,Midwest,Pricing & Value,2,1,Yes,6,No,203,The ROI is simply not there. We cannot justify this cost to our leadership team.
+C0285,At-Risk,Basic,6,Education,11-50 employees,Northeast,Pricing & Value,2,4,Yes,4,No,84,Pricing transparency needs to improve or we will explore other options at renewal.
+C0286,Churned,Pro,31,Technology,201+ employees,Northeast,Onboarding & Usability,1,1,No,6,No,216,We were left to figure things out on our own after the first two weeks of setup.
+C0287,Retained,Pro,40,Healthcare,11-50 employees,Midwest,Pricing & Value,5,4,N/A,4,Yes,214,The onboarding was rough but once we were set up the product has been reliable.
+C0288,Retained,Basic,36,Technology,11-50 employees,South,Pricing & Value,5,4,N/A,3,Yes,55,Support has improved recently and we are seeing more value from the Enterprise features.
+C0289,At-Risk,Pro,9,Technology,1-10 employees,West,Customer Support,4,2,Yes,11,No,223,Pricing transparency needs to improve or we will explore other options at renewal.
+C0290,At-Risk,Basic,22,Retail,11-50 employees,South,Customer Support,3,2,Yes,11,Yes,81,Pricing transparency needs to improve or we will explore other options at renewal.
+C0291,Churned,Pro,20,Technology,1-10 employees,South,Product Quality,2,1,Yes,3,No,158,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0292,At-Risk,Basic,4,Healthcare,11-50 employees,West,Pricing & Value,4,2,No,3,Yes,68,The product has potential but we need to see significant support improvements to stay.
+C0293,Retained,Enterprise,27,Retail,11-50 employees,Midwest,Product Quality,5,4,N/A,4,No,662,The onboarding was rough but once we were set up the product has been reliable.
+C0294,Churned,Enterprise,5,Technology,1-10 employees,West,Customer Support,1,2,No,10,No,1056,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0295,At-Risk,Basic,22,Technology,1-10 employees,South,Pricing & Value,2,2,No,4,No,79,Pricing transparency needs to improve or we will explore other options at renewal.
+C0296,Retained,Pro,14,Technology,11-50 employees,South,Pricing & Value,5,4,N/A,1,Yes,217,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0297,Churned,Enterprise,6,Retail,51-200 employees,Midwest,Product Quality,1,3,No,3,No,824,The mobile app is essentially unusable compared to the desktop version.
+C0298,At-Risk,Basic,22,Finance,11-50 employees,South,Pricing & Value,3,4,Yes,2,No,93,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0299,Churned,Basic,2,Retail,1-10 employees,South,Customer Support,1,2,No,10,No,99,The help documentation is outdated and support often contradicts what the docs say.
+C0300,Churned,Pro,25,Retail,11-50 employees,Northeast,Pricing & Value,1,3,Yes,5,No,268,Value for money compared to competitors has declined significantly over the past year.
+C0301,At-Risk,Basic,23,Finance,11-50 employees,Midwest,Customer Support,3,4,No,9,No,52,The product has potential but we need to see significant support improvements to stay.
+C0302,Churned,Basic,22,Technology,1-10 employees,West,Customer Support,1,1,No,6,No,78,The support team does not understand our use case and the advice is often unhelpful.
+C0303,Churned,Enterprise,21,Technology,1-10 employees,Northeast,Pricing & Value,2,1,No,2,No,776,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0304,At-Risk,Basic,22,Technology,11-50 employees,Northeast,Customer Support,2,3,Yes,7,Yes,91,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0305,Churned,Basic,22,Technology,201+ employees,South,Competitor Switch,1,1,Yes,4,No,79,A competitor offered a significantly better onboarding experience and comparable features.
+C0306,Retained,Basic,16,Finance,201+ employees,Northeast,Onboarding & Usability,5,4,N/A,1,No,55,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0307,Churned,Basic,29,Technology,51-200 employees,Midwest,Competitor Switch,2,1,No,7,Yes,78,A competitor offered a significantly better onboarding experience and comparable features.
+C0308,Churned,Pro,5,Healthcare,1-10 employees,Midwest,Pricing & Value,3,1,Yes,2,No,243,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0309,Churned,Basic,21,Retail,1-10 employees,Northeast,Pricing & Value,1,3,Yes,5,No,80,The price increased 30% at renewal with no new features or improvements to justify it.
+C0310,At-Risk,Pro,12,Technology,11-50 employees,Midwest,Pricing & Value,3,3,Yes,2,No,158,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0311,Retained,Enterprise,13,Retail,11-50 employees,West,Onboarding & Usability,3,4,N/A,4,Yes,634,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0312,Retained,Basic,20,Education,51-200 employees,Midwest,Onboarding & Usability,5,5,N/A,0,Yes,85,The onboarding was rough but once we were set up the product has been reliable.
+C0313,Churned,Basic,2,Healthcare,11-50 employees,Northeast,Product Quality,1,3,No,4,Yes,73,Performance has deteriorated significantly and the product is slower than when we started.
+C0314,At-Risk,Pro,17,Finance,11-50 employees,Midwest,Customer Support,3,3,Yes,12,Yes,215,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0315,Churned,Basic,13,Healthcare,51-200 employees,West,Product Quality,1,2,No,2,No,59,Core features promised during the sales process are still not available after months of waiting.
+C0316,At-Risk,Pro,13,Finance,201+ employees,Northeast,Competitor Switch,2,4,Yes,3,No,181,Pricing transparency needs to improve or we will explore other options at renewal.
+C0317,Churned,Basic,24,Finance,11-50 employees,Midwest,Pricing & Value,1,2,No,6,Yes,94,The ROI is simply not there. We cannot justify this cost to our leadership team.
+C0318,Churned,Basic,3,Retail,11-50 employees,Northeast,Customer Support,1,2,No,4,No,69,Every time we contact support we are passed between agents with no continuity.
+C0319,Churned,Basic,27,Healthcare,11-50 employees,West,Product Quality,2,2,No,3,Yes,88,Core features promised during the sales process are still not available after months of waiting.
+C0320,At-Risk,Basic,20,Technology,11-50 employees,Northeast,Customer Support,4,2,Yes,14,Yes,62,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0321,At-Risk,Basic,15,Finance,11-50 employees,South,Customer Support,3,2,Yes,14,No,82,Pricing transparency needs to improve or we will explore other options at renewal.
+C0322,At-Risk,Basic,4,Technology,51-200 employees,Northeast,Product Quality,3,3,Yes,4,No,54,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0323,Retained,Pro,23,Finance,201+ employees,Northeast,Customer Support,4,5,N/A,7,Yes,157,The onboarding was rough but once we were set up the product has been reliable.
+C0324,Retained,Pro,25,Technology,1-10 employees,South,Onboarding & Usability,5,5,N/A,3,Yes,257,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0325,Churned,Basic,14,Healthcare,11-50 employees,Northeast,Product Quality,1,1,No,5,No,57,We keep encountering the same technical issues with no permanent fix from the team.
+C0326,At-Risk,Enterprise,16,Finance,11-50 employees,Northeast,Customer Support,4,2,Yes,7,No,1163,The product has potential but we need to see significant support improvements to stay.
+C0327,Churned,Pro,31,Healthcare,51-200 employees,Northeast,Product Quality,1,1,Yes,2,No,163,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0328,At-Risk,Basic,19,Retail,201+ employees,West,Product Quality,3,2,Yes,3,No,64,The product has potential but we need to see significant support improvements to stay.
+C0329,Churned,Enterprise,34,Finance,1-10 employees,West,Customer Support,1,2,Yes,6,No,573,Every time we contact support we are passed between agents with no continuity.
+C0330,At-Risk,Pro,10,Finance,1-10 employees,Northeast,Onboarding & Usability,2,4,No,4,No,204,Pricing transparency needs to improve or we will explore other options at renewal.
+C0331,At-Risk,Enterprise,14,Healthcare,51-200 employees,West,Product Quality,4,3,Yes,3,No,707,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0332,Churned,Enterprise,5,Retail,11-50 employees,Northeast,Product Quality,2,1,No,7,No,1060,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0333,Churned,Pro,5,Education,1-10 employees,Northeast,Competitor Switch,1,1,No,3,No,186,The competing platform integrates natively with our CRM which made the decision straightforward.
+C0334,At-Risk,Basic,23,Technology,201+ employees,South,Customer Support,4,4,No,4,No,91,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0335,Churned,Enterprise,5,Retail,11-50 employees,West,Customer Support,2,1,No,5,No,1110,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0336,At-Risk,Enterprise,9,Finance,1-10 employees,South,Onboarding & Usability,3,2,Yes,1,No,1042,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0337,Churned,Basic,2,Finance,1-10 employees,West,Pricing & Value,1,1,No,4,No,87,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0338,Retained,Pro,47,Finance,11-50 employees,South,Pricing & Value,4,5,N/A,3,No,197,The onboarding was rough but once we were set up the product has been reliable.
+C0339,Churned,Enterprise,3,Healthcare,11-50 employees,Midwest,Onboarding & Usability,1,1,Yes,4,No,1195,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0340,Retained,Pro,46,Retail,51-200 employees,West,Pricing & Value,5,4,N/A,1,No,186,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0341,Churned,Basic,14,Technology,201+ employees,Northeast,Product Quality,3,1,Yes,2,No,75,The product does not integrate with our existing tools which makes it very difficult to use.
+C0342,At-Risk,Enterprise,13,Finance,11-50 employees,South,Product Quality,4,4,Yes,3,No,950,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0343,Churned,Pro,17,Technology,201+ employees,Northeast,Customer Support,2,1,No,6,No,282,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0344,Retained,Pro,41,Retail,51-200 employees,South,Product Quality,4,5,N/A,4,Yes,203,Recent product updates have addressed several of our key concerns from last quarter.
+C0345,At-Risk,Pro,4,Healthcare,11-50 employees,South,Customer Support,3,3,No,5,No,283,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0346,Churned,Pro,4,Healthcare,51-200 employees,Northeast,Product Quality,1,1,Yes,5,No,189,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0347,Retained,Basic,41,Retail,1-10 employees,Midwest,Pricing & Value,4,4,N/A,3,Yes,70,The onboarding was rough but once we were set up the product has been reliable.
+C0348,Churned,Basic,35,Retail,51-200 employees,Northeast,Product Quality,2,1,No,2,No,65,Core features promised during the sales process are still not available after months of waiting.
+C0349,Churned,Basic,29,Retail,201+ employees,Northeast,Customer Support,2,1,No,7,No,66,Every time we contact support we are passed between agents with no continuity.
+C0350,Churned,Basic,3,Healthcare,11-50 employees,Midwest,Pricing & Value,1,2,No,4,No,50,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0351,Retained,Enterprise,13,Technology,11-50 employees,South,Onboarding & Usability,5,5,N/A,3,Yes,627,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0352,At-Risk,Basic,18,Healthcare,1-10 employees,West,Customer Support,3,2,Yes,10,No,81,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0353,Retained,Pro,35,Technology,1-10 employees,Northeast,Customer Support,5,4,N/A,11,No,174,Support has improved recently and we are seeing more value from the Enterprise features.
+C0354,Churned,Pro,27,Healthcare,51-200 employees,Northeast,Product Quality,2,2,No,3,No,226,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0355,Churned,Basic,33,Finance,1-10 employees,Midwest,Customer Support,2,3,No,14,No,91,Every time we contact support we are passed between agents with no continuity.
+C0356,At-Risk,Pro,17,Retail,11-50 employees,West,Product Quality,2,3,Yes,0,No,220,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0357,Retained,Pro,39,Technology,51-200 employees,South,Product Quality,5,3,N/A,2,No,160,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0358,At-Risk,Basic,14,Retail,11-50 employees,South,Pricing & Value,3,2,Yes,0,Yes,60,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0359,Retained,Basic,34,Technology,1-10 employees,West,Customer Support,4,5,N/A,5,Yes,69,Support has improved recently and we are seeing more value from the Enterprise features.
+C0360,Churned,Pro,33,Technology,201+ employees,South,Customer Support,3,1,Yes,6,No,186,Live chat support is unavailable during our business hours which are not US Eastern time.
+C0361,Churned,Pro,3,Technology,1-10 employees,Northeast,Product Quality,2,1,Yes,7,No,180,The product does not integrate with our existing tools which makes it very difficult to use.
+C0362,Churned,Basic,1,Retail,201+ employees,Northeast,Product Quality,1,2,No,6,No,66,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0363,Retained,Enterprise,31,Healthcare,11-50 employees,South,Onboarding & Usability,4,5,N/A,3,Yes,708,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0364,Churned,Enterprise,5,Retail,1-10 employees,Northeast,Pricing & Value,1,1,No,4,No,1196,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0365,Churned,Pro,2,Retail,201+ employees,South,Onboarding & Usability,1,1,No,2,Yes,163,Setup took far longer than expected and we never received adequate implementation support.
+C0366,Churned,Basic,4,Healthcare,11-50 employees,Midwest,Product Quality,2,1,Yes,3,No,85,Performance has deteriorated significantly and the product is slower than when we started.
+C0367,Churned,Enterprise,15,Healthcare,51-200 employees,South,Onboarding & Usability,1,1,No,2,Yes,1022,We were handed off from sales to a junior CSM who did not understand our configuration needs.
+C0368,Retained,Basic,44,Healthcare,51-200 employees,South,Competitor Switch,4,4,N/A,1,No,86,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0369,Churned,Pro,6,Healthcare,1-10 employees,South,Customer Support,1,1,No,5,No,184,Every time we contact support we are passed between agents with no continuity.
+C0370,Retained,Pro,39,Education,1-10 employees,Midwest,Onboarding & Usability,4,5,N/A,4,Yes,176,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0371,At-Risk,Basic,5,Technology,201+ employees,Northeast,Pricing & Value,3,2,Yes,3,No,97,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0372,At-Risk,Pro,18,Healthcare,11-50 employees,Midwest,Customer Support,3,4,Yes,12,No,291,The product has potential but we need to see significant support improvements to stay.
+C0373,At-Risk,Basic,20,Finance,11-50 employees,Midwest,Customer Support,2,3,Yes,13,No,71,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0374,Retained,Pro,23,Technology,1-10 employees,Midwest,Product Quality,4,5,N/A,2,No,192,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0375,Churned,Pro,1,Technology,1-10 employees,Northeast,Customer Support,1,1,No,8,No,240,The support team does not understand our use case and the advice is often unhelpful.
+C0376,Churned,Pro,5,Technology,11-50 employees,West,Product Quality,2,1,No,2,No,191,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0377,At-Risk,Enterprise,18,Healthcare,201+ employees,West,Competitor Switch,3,3,Yes,3,No,1028,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0378,At-Risk,Enterprise,5,Education,201+ employees,Midwest,Product Quality,2,3,Yes,3,No,682,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0379,Retained,Basic,7,Technology,11-50 employees,Midwest,Competitor Switch,4,4,N/A,1,Yes,90,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0380,At-Risk,Enterprise,23,Retail,51-200 employees,South,Competitor Switch,2,4,Yes,3,No,694,Pricing transparency needs to improve or we will explore other options at renewal.
+C0381,At-Risk,Basic,13,Healthcare,51-200 employees,Northeast,Product Quality,3,3,Yes,3,No,72,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0382,Churned,Basic,6,Healthcare,201+ employees,South,Customer Support,3,2,No,10,No,97,Live chat support is unavailable during our business hours which are not US Eastern time.
+C0383,Churned,Basic,1,Technology,51-200 employees,Northeast,Competitor Switch,3,1,No,5,Yes,87,The competing platform integrates natively with our CRM which made the decision straightforward.
+C0384,Churned,Basic,23,Finance,11-50 employees,Northeast,Pricing & Value,1,2,Yes,3,No,58,The price increased 30% at renewal with no new features or improvements to justify it.
+C0385,Churned,Pro,2,Technology,1-10 employees,West,Competitor Switch,1,1,No,7,Yes,249,We evaluated three alternatives and another platform won on both price and support quality.
+C0386,Churned,Basic,35,Finance,201+ employees,Midwest,Product Quality,2,1,No,3,No,57,We experienced significant data sync issues that impacted our daily operations.
+C0387,Churned,Pro,3,Healthcare,11-50 employees,South,Onboarding & Usability,3,2,Yes,2,No,247,We were handed off from sales to a junior CSM who did not understand our configuration needs.
+C0388,Churned,Enterprise,23,Healthcare,11-50 employees,South,Pricing & Value,3,1,No,5,Yes,851,The price increased 30% at renewal with no new features or improvements to justify it.
+C0389,Churned,Pro,6,Technology,11-50 employees,Midwest,Pricing & Value,2,1,Yes,6,No,214,The price increased 30% at renewal with no new features or improvements to justify it.
+C0390,Churned,Basic,24,Retail,51-200 employees,South,Pricing & Value,1,2,No,7,No,68,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0391,Churned,Pro,2,Technology,1-10 employees,South,Onboarding & Usability,2,1,Yes,4,No,192,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0392,At-Risk,Pro,18,Retail,1-10 employees,Midwest,Product Quality,3,4,No,4,No,242,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0393,Churned,Basic,13,Finance,51-200 employees,South,Customer Support,2,2,No,9,No,99,We feel ignored. Critical issues sit open for weeks with no meaningful updates.
+C0394,Churned,Basic,6,Finance,11-50 employees,Northeast,Product Quality,2,3,No,4,Yes,79,Performance has deteriorated significantly and the product is slower than when we started.
+C0395,Churned,Pro,16,Education,11-50 employees,South,Customer Support,2,3,Yes,7,No,197,Live chat support is unavailable during our business hours which are not US Eastern time.
+C0396,At-Risk,Pro,8,Education,11-50 employees,Midwest,Customer Support,2,3,Yes,4,Yes,151,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0397,At-Risk,Enterprise,8,Finance,11-50 employees,South,Onboarding & Usability,4,2,Yes,4,No,946,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0398,At-Risk,Pro,12,Technology,11-50 employees,West,Pricing & Value,2,2,Yes,0,Yes,241,Pricing transparency needs to improve or we will explore other options at renewal.
+C0399,Churned,Pro,5,Finance,11-50 employees,South,Onboarding & Usability,2,2,No,3,No,253,The onboarding process was rushed and our team never felt fully trained on the platform.
+C0400,Churned,Pro,1,Retail,11-50 employees,West,Pricing & Value,1,2,Yes,3,No,150,We found a competitor offering the same core functionality at half the price.
+C0401,Churned,Pro,31,Technology,201+ employees,West,Product Quality,2,2,Yes,5,No,225,Core features promised during the sales process are still not available after months of waiting.
+C0402,Churned,Pro,33,Technology,1-10 employees,West,Pricing & Value,1,2,Yes,5,No,217,The ROI is simply not there. We cannot justify this cost to our leadership team.
+C0403,Churned,Enterprise,3,Technology,11-50 employees,Midwest,Onboarding & Usability,1,2,No,5,Yes,1174,The onboarding process was rushed and our team never felt fully trained on the platform.
+C0404,Retained,Basic,30,Technology,1-10 employees,Northeast,Pricing & Value,4,3,N/A,2,No,70,Recent product updates have addressed several of our key concerns from last quarter.
+C0405,Retained,Basic,46,Technology,11-50 employees,West,Customer Support,4,4,N/A,10,Yes,95,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0406,Retained,Enterprise,42,Education,11-50 employees,Northeast,Product Quality,3,4,N/A,0,No,993,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0407,Retained,Pro,34,Education,201+ employees,Northeast,Pricing & Value,4,4,N/A,0,Yes,180,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0408,At-Risk,Enterprise,20,Technology,201+ employees,West,Pricing & Value,2,3,Yes,4,No,939,The product has potential but we need to see significant support improvements to stay.
+C0409,Retained,Basic,43,Technology,51-200 employees,West,Product Quality,5,4,N/A,1,No,96,The onboarding was rough but once we were set up the product has been reliable.
+C0410,At-Risk,Pro,7,Technology,11-50 employees,Northeast,Competitor Switch,4,2,Yes,1,No,177,The product has potential but we need to see significant support improvements to stay.
+C0411,Churned,Pro,24,Technology,11-50 employees,South,Product Quality,1,1,Yes,5,Yes,195,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0412,At-Risk,Enterprise,4,Finance,11-50 employees,West,Pricing & Value,2,3,Yes,4,No,811,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0413,Retained,Basic,7,Finance,1-10 employees,Northeast,Customer Support,5,4,N/A,7,No,88,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0414,Churned,Pro,26,Healthcare,11-50 employees,Northeast,Onboarding & Usability,3,1,No,4,No,188,The onboarding process was rushed and our team never felt fully trained on the platform.
+C0415,At-Risk,Basic,7,Retail,51-200 employees,Midwest,Pricing & Value,2,4,Yes,3,Yes,56,We are on the fence. A proactive outreach from our account team would help retain us.
+C0416,Retained,Pro,28,Healthcare,1-10 employees,Midwest,Product Quality,5,3,N/A,1,No,187,Support has improved recently and we are seeing more value from the Enterprise features.
+C0417,Retained,Basic,23,Education,11-50 employees,South,Pricing & Value,4,4,N/A,4,Yes,54,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0418,Churned,Basic,2,Healthcare,11-50 employees,Northeast,Product Quality,1,1,No,2,No,61,We keep encountering the same technical issues with no permanent fix from the team.
+C0419,At-Risk,Basic,19,Healthcare,201+ employees,Northeast,Pricing & Value,3,3,No,2,No,59,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0420,Churned,Pro,5,Technology,1-10 employees,West,Product Quality,2,3,No,6,No,291,Core features promised during the sales process are still not available after months of waiting.
+C0421,Churned,Basic,17,Retail,1-10 employees,Northeast,Customer Support,3,2,No,4,No,51,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0422,Churned,Pro,4,Finance,11-50 employees,West,Pricing & Value,2,1,Yes,5,Yes,194,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0423,Churned,Pro,18,Education,51-200 employees,West,Product Quality,3,1,Yes,3,Yes,253,Performance has deteriorated significantly and the product is slower than when we started.
+C0424,At-Risk,Pro,8,Technology,51-200 employees,Northeast,Pricing & Value,2,4,Yes,0,No,149,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0425,At-Risk,Pro,9,Technology,11-50 employees,South,Customer Support,4,4,No,8,Yes,252,Pricing transparency needs to improve or we will explore other options at renewal.
+C0426,Churned,Enterprise,25,Technology,51-200 employees,West,Onboarding & Usability,1,1,Yes,3,Yes,823,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0427,Retained,Pro,21,Technology,1-10 employees,South,Pricing & Value,3,4,N/A,4,Yes,227,Recent product updates have addressed several of our key concerns from last quarter.
+C0428,Churned,Pro,30,Finance,201+ employees,West,Customer Support,2,1,Yes,11,No,221,Issues are closed without being resolved and we have to reopen the same tickets repeatedly.
+C0429,At-Risk,Pro,12,Finance,201+ employees,Midwest,Product Quality,4,3,Yes,4,Yes,275,Pricing transparency needs to improve or we will explore other options at renewal.
+C0430,Churned,Pro,3,Healthcare,11-50 employees,South,Product Quality,2,1,No,2,No,209,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0431,Retained,Pro,31,Technology,11-50 employees,Northeast,Onboarding & Usability,4,4,N/A,1,Yes,207,Support has improved recently and we are seeing more value from the Enterprise features.
+C0432,Churned,Pro,3,Technology,1-10 employees,Midwest,Product Quality,2,2,No,5,No,234,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0433,Retained,Pro,35,Technology,11-50 employees,South,Customer Support,3,4,N/A,8,Yes,177,Recent product updates have addressed several of our key concerns from last quarter.
+C0434,At-Risk,Basic,21,Healthcare,201+ employees,Northeast,Customer Support,3,2,No,8,No,66,Pricing transparency needs to improve or we will explore other options at renewal.
+C0435,Churned,Pro,4,Healthcare,11-50 employees,South,Pricing & Value,2,1,No,5,No,198,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0436,Retained,Basic,23,Technology,201+ employees,South,Product Quality,4,3,N/A,2,Yes,79,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0437,At-Risk,Pro,9,Technology,51-200 employees,South,Product Quality,3,2,Yes,2,No,154,The product has potential but we need to see significant support improvements to stay.
+C0438,Retained,Pro,29,Retail,11-50 employees,South,Customer Support,5,4,N/A,11,No,299,Recent product updates have addressed several of our key concerns from last quarter.
+C0439,At-Risk,Basic,10,Technology,11-50 employees,Midwest,Customer Support,2,3,Yes,8,Yes,81,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0440,Retained,Pro,33,Finance,11-50 employees,South,Onboarding & Usability,4,3,N/A,4,No,280,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0441,At-Risk,Basic,12,Retail,51-200 employees,South,Competitor Switch,2,3,Yes,4,No,55,Pricing transparency needs to improve or we will explore other options at renewal.
+C0442,Churned,Pro,4,Retail,51-200 employees,Northeast,Customer Support,1,1,Yes,7,Yes,295,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0443,Retained,Basic,46,Retail,51-200 employees,Midwest,Pricing & Value,5,3,N/A,2,No,88,Recent product updates have addressed several of our key concerns from last quarter.
+C0444,Retained,Pro,38,Healthcare,11-50 employees,Northeast,Onboarding & Usability,3,5,N/A,2,Yes,149,The onboarding was rough but once we were set up the product has been reliable.
+C0445,At-Risk,Basic,11,Healthcare,1-10 employees,South,Product Quality,3,4,Yes,3,Yes,98,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0446,Retained,Pro,40,Retail,51-200 employees,Midwest,Onboarding & Usability,4,4,N/A,2,Yes,188,Support has improved recently and we are seeing more value from the Enterprise features.
+C0447,At-Risk,Basic,11,Retail,11-50 employees,Midwest,Customer Support,2,3,Yes,8,Yes,58,Pricing transparency needs to improve or we will explore other options at renewal.
+C0448,Churned,Enterprise,3,Healthcare,51-200 employees,West,Product Quality,1,2,No,6,No,858,The mobile app is essentially unusable compared to the desktop version.
+C0449,Churned,Pro,22,Technology,1-10 employees,West,Onboarding & Usability,3,1,No,3,No,251,The product is powerful but too complex for our team size without better guided onboarding.
+C0450,Churned,Enterprise,2,Technology,11-50 employees,West,Product Quality,2,3,No,6,No,1153,The product does not integrate with our existing tools which makes it very difficult to use.
+C0451,Churned,Enterprise,24,Technology,11-50 employees,South,Pricing & Value,3,1,Yes,6,No,869,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0452,At-Risk,Basic,20,Healthcare,11-50 employees,Midwest,Customer Support,3,3,Yes,4,No,90,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0453,At-Risk,Enterprise,20,Technology,11-50 employees,West,Onboarding & Usability,2,4,Yes,4,No,1110,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0454,Churned,Pro,18,Finance,11-50 employees,Northeast,Customer Support,3,1,Yes,9,No,292,The support team does not understand our use case and the advice is often unhelpful.
+C0455,Churned,Pro,17,Retail,1-10 employees,Northeast,Pricing & Value,1,1,No,7,No,156,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0456,At-Risk,Pro,14,Finance,201+ employees,West,Onboarding & Usability,4,3,Yes,0,No,261,We are on the fence. A proactive outreach from our account team would help retain us.
+C0457,At-Risk,Enterprise,19,Retail,11-50 employees,South,Pricing & Value,3,4,Yes,2,No,855,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0458,At-Risk,Basic,21,Technology,51-200 employees,Northeast,Competitor Switch,2,2,Yes,2,No,87,Pricing transparency needs to improve or we will explore other options at renewal.
+C0459,Churned,Enterprise,1,Finance,51-200 employees,West,Onboarding & Usability,1,1,No,4,No,533,Setup took far longer than expected and we never received adequate implementation support.
+C0460,At-Risk,Basic,18,Education,1-10 employees,Northeast,Onboarding & Usability,2,2,No,4,Yes,79,We are on the fence. A proactive outreach from our account team would help retain us.
+C0461,Retained,Basic,18,Technology,11-50 employees,Northeast,Competitor Switch,5,5,N/A,4,No,85,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0462,Retained,Pro,44,Retail,201+ employees,South,Onboarding & Usability,4,5,N/A,0,Yes,209,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0463,Churned,Pro,3,Healthcare,201+ employees,South,Customer Support,1,1,Yes,14,No,258,The help documentation is outdated and support often contradicts what the docs say.
+C0464,Churned,Pro,15,Education,1-10 employees,South,Product Quality,2,1,No,5,No,162,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0465,Churned,Basic,30,Finance,11-50 employees,Midwest,Pricing & Value,1,2,Yes,4,No,61,The price increased 30% at renewal with no new features or improvements to justify it.
+C0466,Retained,Pro,19,Finance,11-50 employees,Northeast,Product Quality,5,5,N/A,0,Yes,205,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0467,At-Risk,Enterprise,13,Retail,11-50 employees,Northeast,Product Quality,2,3,Yes,0,Yes,1098,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0468,At-Risk,Pro,5,Healthcare,1-10 employees,South,Pricing & Value,4,2,No,2,No,187,The product has potential but we need to see significant support improvements to stay.
+C0469,At-Risk,Basic,11,Healthcare,201+ employees,West,Customer Support,3,2,Yes,9,No,51,The product has potential but we need to see significant support improvements to stay.
+C0470,Retained,Basic,23,Technology,1-10 employees,South,Pricing & Value,4,4,N/A,3,Yes,82,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0471,Churned,Enterprise,31,Finance,1-10 employees,West,Customer Support,1,3,No,4,No,768,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0472,At-Risk,Pro,4,Healthcare,11-50 employees,South,Customer Support,3,2,No,14,Yes,229,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0473,Retained,Enterprise,17,Retail,11-50 employees,Midwest,Pricing & Value,5,4,N/A,1,Yes,554,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0474,Churned,Basic,13,Healthcare,1-10 employees,Northeast,Onboarding & Usability,1,1,Yes,6,Yes,52,Training materials are outdated and do not reflect the current version of the product.
+C0475,Churned,Pro,27,Technology,201+ employees,West,Product Quality,2,1,No,3,No,210,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0476,Churned,Enterprise,16,Finance,11-50 employees,West,Competitor Switch,1,1,No,2,No,1045,We piloted an alternative solution and the team preferred it unanimously over RetainIQ.
+C0477,Churned,Enterprise,1,Education,11-50 employees,Midwest,Pricing & Value,1,1,Yes,2,No,660,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0478,Churned,Basic,1,Technology,1-10 employees,Midwest,Pricing & Value,1,1,No,5,No,64,We found a competitor offering the same core functionality at half the price.
+C0479,Churned,Pro,12,Healthcare,11-50 employees,Northeast,Product Quality,1,2,No,7,Yes,181,We experienced significant data sync issues that impacted our daily operations.
+C0480,At-Risk,Basic,18,Healthcare,51-200 employees,South,Product Quality,2,2,Yes,3,No,90,The product has potential but we need to see significant support improvements to stay.
+C0481,Churned,Basic,5,Finance,11-50 employees,South,Product Quality,2,1,Yes,5,No,84,We keep encountering the same technical issues with no permanent fix from the team.
+C0482,Retained,Basic,7,Retail,201+ employees,West,Product Quality,4,3,N/A,0,Yes,56,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0483,Churned,Pro,22,Healthcare,11-50 employees,South,Competitor Switch,1,1,Yes,2,Yes,263,A competitor offered a significantly better onboarding experience and comparable features.
+C0484,Churned,Enterprise,30,Education,1-10 employees,South,Product Quality,1,2,Yes,4,No,843,We experienced significant data sync issues that impacted our daily operations.
+C0485,Churned,Basic,1,Finance,1-10 employees,Northeast,Product Quality,2,1,No,2,Yes,96,The platform crashes frequently and bugs have never been resolved despite multiple reports.
+C0486,At-Risk,Enterprise,17,Finance,51-200 employees,South,Competitor Switch,2,3,Yes,1,Yes,772,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0487,Churned,Enterprise,30,Healthcare,201+ employees,Northeast,Pricing & Value,2,2,Yes,5,Yes,997,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0488,Retained,Pro,16,Finance,201+ employees,South,Onboarding & Usability,4,4,N/A,3,Yes,239,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0489,Churned,Basic,17,Healthcare,51-200 employees,West,Customer Support,1,1,No,13,No,76,The help documentation is outdated and support often contradicts what the docs say.
+C0490,Churned,Pro,1,Finance,11-50 employees,South,Product Quality,3,1,No,4,No,151,Core features promised during the sales process are still not available after months of waiting.
+C0491,At-Risk,Enterprise,21,Healthcare,1-10 employees,South,Customer Support,4,4,No,10,Yes,961,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0492,Churned,Pro,31,Finance,1-10 employees,West,Product Quality,1,2,No,7,No,246,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0493,Retained,Enterprise,6,Education,11-50 employees,South,Customer Support,3,5,N/A,5,Yes,836,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0494,Churned,Enterprise,3,Technology,1-10 employees,South,Pricing & Value,1,1,Yes,4,No,539,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0495,Churned,Basic,3,Retail,1-10 employees,Northeast,Pricing & Value,1,3,No,6,No,63,We found a competitor offering the same core functionality at half the price.
+C0496,Churned,Pro,23,Retail,1-10 employees,West,Competitor Switch,3,1,No,2,No,297,The competing platform integrates natively with our CRM which made the decision straightforward.
+C0497,At-Risk,Basic,3,Healthcare,201+ employees,Midwest,Product Quality,3,4,Yes,2,No,71,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0498,Churned,Pro,26,Technology,11-50 employees,Midwest,Onboarding & Usability,1,2,Yes,3,No,175,We were handed off from sales to a junior CSM who did not understand our configuration needs.
+C0499,Churned,Pro,15,Retail,1-10 employees,South,Pricing & Value,2,2,Yes,5,No,161,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0500,Churned,Basic,20,Technology,1-10 employees,West,Pricing & Value,1,1,No,7,No,77,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0501,Churned,Basic,2,Education,51-200 employees,Northeast,Onboarding & Usability,1,2,No,3,No,91,Training materials are outdated and do not reflect the current version of the product.
+C0502,At-Risk,Enterprise,10,Healthcare,11-50 employees,South,Pricing & Value,4,3,Yes,0,Yes,964,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0503,At-Risk,Pro,15,Technology,201+ employees,South,Pricing & Value,3,2,No,0,No,212,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0504,Churned,Pro,31,Healthcare,11-50 employees,South,Product Quality,1,2,No,4,No,274,Performance has deteriorated significantly and the product is slower than when we started.
+C0505,At-Risk,Pro,11,Education,11-50 employees,South,Pricing & Value,3,2,No,1,Yes,161,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0506,At-Risk,Enterprise,20,Education,11-50 employees,Midwest,Product Quality,3,2,Yes,4,No,907,Pricing transparency needs to improve or we will explore other options at renewal.
+C0507,At-Risk,Pro,20,Education,201+ employees,Midwest,Customer Support,2,4,Yes,12,Yes,199,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0508,At-Risk,Basic,11,Technology,201+ employees,West,Customer Support,3,3,No,7,Yes,87,Pricing transparency needs to improve or we will explore other options at renewal.
+C0509,Churned,Basic,26,Education,11-50 employees,Northeast,Product Quality,1,1,No,6,No,57,Performance has deteriorated significantly and the product is slower than when we started.
+C0510,Churned,Pro,14,Finance,1-10 employees,South,Product Quality,2,3,No,5,No,172,The product does not integrate with our existing tools which makes it very difficult to use.
+C0511,Churned,Basic,12,Finance,11-50 employees,West,Competitor Switch,2,1,Yes,3,No,96,A competitor's new release addressed all the feature gaps we had flagged with RetainIQ.
+C0512,Churned,Pro,5,Retail,11-50 employees,South,Customer Support,1,3,Yes,5,No,196,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0513,At-Risk,Basic,15,Education,51-200 employees,South,Product Quality,3,2,Yes,0,Yes,96,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0514,Churned,Pro,21,Technology,201+ employees,West,Pricing & Value,1,3,No,2,No,209,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0515,Retained,Basic,47,Healthcare,201+ employees,Northeast,Pricing & Value,4,4,N/A,4,Yes,64,Support has improved recently and we are seeing more value from the Enterprise features.
+C0516,Churned,Basic,3,Education,51-200 employees,West,Pricing & Value,1,2,Yes,2,No,93,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0517,Retained,Basic,25,Healthcare,51-200 employees,West,Customer Support,4,4,N/A,14,Yes,78,Recent product updates have addressed several of our key concerns from last quarter.
+C0518,Churned,Pro,15,Finance,11-50 employees,Midwest,Product Quality,2,2,Yes,5,No,248,Too many features are broken or incomplete. The product feels like it is still in beta.
+C0519,At-Risk,Basic,18,Finance,51-200 employees,South,Pricing & Value,3,2,Yes,4,No,65,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0520,Retained,Pro,16,Retail,11-50 employees,Northeast,Customer Support,5,3,N/A,10,Yes,274,The onboarding was rough but once we were set up the product has been reliable.
+C0521,Retained,Pro,14,Healthcare,11-50 employees,Northeast,Product Quality,4,4,N/A,4,Yes,207,The onboarding was rough but once we were set up the product has been reliable.
+C0522,Churned,Basic,1,Healthcare,11-50 employees,Midwest,Pricing & Value,3,1,Yes,3,No,88,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0523,Churned,Basic,35,Technology,11-50 employees,Northeast,Product Quality,1,1,No,2,No,51,The mobile app is essentially unusable compared to the desktop version.
+C0524,Churned,Basic,3,Healthcare,51-200 employees,South,Pricing & Value,2,1,No,4,Yes,79,The ROI is simply not there. We cannot justify this cost to our leadership team.
+C0525,Churned,Enterprise,4,Finance,51-200 employees,Midwest,Customer Support,1,3,No,4,No,553,Every time we contact support we are passed between agents with no continuity.
+C0526,Churned,Basic,6,Healthcare,51-200 employees,Midwest,Pricing & Value,1,3,Yes,3,No,82,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0527,At-Risk,Enterprise,15,Retail,11-50 employees,West,Customer Support,3,4,Yes,10,Yes,1135,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0528,Churned,Pro,2,Retail,51-200 employees,Midwest,Customer Support,2,3,No,8,No,275,There is no dedicated account manager for Pro tier which is frustrating given our spend.
+C0529,Retained,Basic,31,Technology,1-10 employees,Northeast,Pricing & Value,4,5,N/A,4,Yes,51,Despite some issues the platform generally meets our needs and the team has adapted well.
+C0530,Retained,Pro,44,Retail,201+ employees,Northeast,Product Quality,5,5,N/A,0,Yes,150,Recent product updates have addressed several of our key concerns from last quarter.
+C0531,Retained,Basic,35,Retail,11-50 employees,West,Pricing & Value,3,4,N/A,3,No,56,Recent product updates have addressed several of our key concerns from last quarter.
+C0532,At-Risk,Basic,3,Healthcare,11-50 employees,Northeast,Customer Support,3,3,No,12,No,86,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0533,Churned,Basic,22,Technology,51-200 employees,South,Pricing & Value,2,1,Yes,2,No,75,Our budget was cut and the pricing tier options do not offer a meaningful downgrade path.
+C0534,Retained,Basic,21,Finance,11-50 employees,Northeast,Onboarding & Usability,3,5,N/A,4,No,56,Support has improved recently and we are seeing more value from the Enterprise features.
+C0535,Churned,Enterprise,5,Technology,11-50 employees,Midwest,Pricing & Value,1,1,No,2,No,1160,Add-on fees for features we assumed were included made the total cost far higher than expected.
+C0536,Retained,Pro,13,Education,11-50 employees,West,Pricing & Value,3,5,N/A,0,No,198,Support has improved recently and we are seeing more value from the Enterprise features.
+C0537,At-Risk,Pro,4,Education,201+ employees,Northeast,Onboarding & Usability,4,4,No,1,No,299,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0538,Churned,Pro,1,Finance,51-200 employees,South,Customer Support,2,2,Yes,14,No,225,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0539,At-Risk,Pro,9,Finance,11-50 employees,South,Pricing & Value,4,2,Yes,0,No,214,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0540,Retained,Pro,41,Retail,51-200 employees,South,Pricing & Value,5,5,N/A,4,Yes,279,The onboarding was rough but once we were set up the product has been reliable.
+C0541,At-Risk,Pro,19,Technology,11-50 employees,West,Pricing & Value,3,3,Yes,2,No,184,The product has potential but we need to see significant support improvements to stay.
+C0542,Churned,Pro,5,Technology,11-50 employees,Midwest,Pricing & Value,2,2,Yes,7,No,243,We found a competitor offering the same core functionality at half the price.
+C0543,At-Risk,Basic,8,Retail,201+ employees,Northeast,Onboarding & Usability,3,4,Yes,2,No,49,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0544,At-Risk,Pro,10,Finance,11-50 employees,Northeast,Product Quality,4,3,Yes,4,No,238,Pricing transparency needs to improve or we will explore other options at renewal.
+C0545,Churned,Enterprise,29,Technology,11-50 employees,Northeast,Product Quality,2,1,No,2,No,662,We keep encountering the same technical issues with no permanent fix from the team.
+C0546,Churned,Enterprise,6,Healthcare,11-50 employees,Northeast,Pricing & Value,1,1,No,2,No,932,We were not informed about the price increase until 2 weeks before renewal. Very poor communication.
+C0547,At-Risk,Pro,3,Healthcare,1-10 employees,West,Customer Support,4,2,Yes,8,Yes,289,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0548,Retained,Pro,24,Education,51-200 employees,West,Onboarding & Usability,4,5,N/A,2,Yes,273,The onboarding was rough but once we were set up the product has been reliable.
+C0549,Churned,Enterprise,1,Finance,201+ employees,Midwest,Product Quality,2,1,No,5,Yes,1169,We keep encountering the same technical issues with no permanent fix from the team.
+C0550,Churned,Basic,4,Healthcare,11-50 employees,Midwest,Product Quality,2,1,No,6,No,91,Performance has deteriorated significantly and the product is slower than when we started.
+C0551,Churned,Enterprise,3,Finance,11-50 employees,West,Pricing & Value,1,1,No,5,No,584,The price increased 30% at renewal with no new features or improvements to justify it.
+C0552,Churned,Basic,35,Technology,51-200 employees,South,Pricing & Value,2,1,Yes,5,Yes,89,We found a competitor offering the same core functionality at half the price.
+C0553,At-Risk,Basic,10,Technology,11-50 employees,Midwest,Product Quality,2,2,Yes,4,Yes,92,We are on the fence. A proactive outreach from our account team would help retain us.
+C0554,Retained,Basic,46,Healthcare,11-50 employees,South,Customer Support,4,5,N/A,5,Yes,96,The onboarding was rough but once we were set up the product has been reliable.
+C0555,At-Risk,Pro,15,Healthcare,51-200 employees,South,Onboarding & Usability,2,3,Yes,0,No,264,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0556,Churned,Enterprise,2,Finance,51-200 employees,South,Product Quality,2,1,No,2,No,801,Performance has deteriorated significantly and the product is slower than when we started.
+C0557,At-Risk,Pro,11,Technology,1-10 employees,West,Pricing & Value,2,2,Yes,0,Yes,288,We are on the fence. A proactive outreach from our account team would help retain us.
+C0558,Retained,Enterprise,45,Technology,11-50 employees,South,Product Quality,5,5,N/A,4,Yes,1171,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0559,At-Risk,Basic,12,Technology,201+ employees,Northeast,Pricing & Value,2,2,No,4,No,78,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0560,Churned,Enterprise,2,Technology,51-200 employees,South,Product Quality,3,1,Yes,5,No,631,The mobile app is essentially unusable compared to the desktop version.
+C0561,Churned,Basic,14,Technology,51-200 employees,Northeast,Customer Support,1,3,No,13,No,61,Support response times are unacceptably slow. We wait days for simple issue resolution.
+C0562,Retained,Pro,40,Retail,201+ employees,South,Customer Support,4,3,N/A,9,Yes,159,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0563,Churned,Pro,29,Retail,1-10 employees,South,Product Quality,3,2,No,5,No,150,We keep encountering the same technical issues with no permanent fix from the team.
+C0564,Churned,Pro,17,Technology,11-50 employees,West,Customer Support,3,1,No,7,No,177,Every time we contact support we are passed between agents with no continuity.
+C0565,At-Risk,Enterprise,14,Retail,1-10 employees,Midwest,Pricing & Value,2,2,No,2,No,1020,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0566,Retained,Basic,38,Education,51-200 employees,West,Product Quality,5,3,N/A,3,Yes,67,Support has improved recently and we are seeing more value from the Enterprise features.
+C0567,Churned,Basic,33,Technology,51-200 employees,Northeast,Pricing & Value,1,3,Yes,6,No,89,Value for money compared to competitors has declined significantly over the past year.
+C0568,Churned,Pro,2,Finance,201+ employees,Midwest,Pricing & Value,2,2,No,2,No,165,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0569,Churned,Enterprise,33,Healthcare,11-50 employees,West,Customer Support,2,3,No,6,No,1198,Live chat support is unavailable during our business hours which are not US Eastern time.
+C0570,Churned,Basic,18,Healthcare,11-50 employees,South,Customer Support,1,2,No,13,No,64,The help documentation is outdated and support often contradicts what the docs say.
+C0571,Retained,Pro,23,Technology,11-50 employees,South,Competitor Switch,4,5,N/A,3,Yes,271,Recent product updates have addressed several of our key concerns from last quarter.
+C0572,At-Risk,Pro,7,Technology,11-50 employees,South,Customer Support,3,3,Yes,13,Yes,209,Unless pricing improves at renewal we will likely not continue past this contract period.
+C0573,Churned,Pro,30,Healthcare,51-200 employees,West,Product Quality,3,1,No,4,Yes,182,The mobile app is essentially unusable compared to the desktop version.
+C0574,Churned,Pro,6,Technology,51-200 employees,West,Onboarding & Usability,1,3,Yes,5,No,174,The learning curve is too steep for our non-technical staff to adopt comfortably.
+C0575,Churned,Basic,1,Healthcare,11-50 employees,Northeast,Product Quality,1,3,Yes,2,Yes,55,The mobile app is essentially unusable compared to the desktop version.
+C0576,At-Risk,Basic,19,Education,1-10 employees,Midwest,Customer Support,3,3,Yes,14,No,80,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0577,Churned,Enterprise,13,Retail,11-50 employees,Midwest,Onboarding & Usability,3,3,No,5,No,780,We were handed off from sales to a junior CSM who did not understand our configuration needs.
+C0578,Retained,Basic,12,Finance,11-50 employees,Northeast,Customer Support,4,4,N/A,12,Yes,90,Recent product updates have addressed several of our key concerns from last quarter.
+C0579,At-Risk,Basic,23,Technology,11-50 employees,Midwest,Pricing & Value,3,3,Yes,0,No,98,We have submitted a list of critical feature requests. If unaddressed we will reconsider.
+C0580,Churned,Pro,31,Retail,51-200 employees,Northeast,Onboarding & Usability,2,1,Yes,3,No,165,We were handed off from sales to a junior CSM who did not understand our configuration needs.
+C0581,At-Risk,Basic,14,Finance,11-50 employees,Northeast,Customer Support,3,3,Yes,12,No,55,We are on the fence. A proactive outreach from our account team would help retain us.
+C0582,At-Risk,Basic,19,Finance,1-10 employees,West,Customer Support,2,3,No,6,No,87,We are on the fence. A proactive outreach from our account team would help retain us.
+C0583,Retained,Pro,25,Finance,1-10 employees,Northeast,Pricing & Value,3,4,N/A,4,Yes,247,Our account manager has been excellent and that relationship keeps us with RetainIQ.
+C0584,At-Risk,Basic,7,Education,51-200 employees,West,Product Quality,2,2,Yes,2,No,51,We are currently evaluating alternatives and will decide at the next renewal in 60 days.
+C0585,Retained,Basic,30,Healthcare,1-10 employees,West,Onboarding & Usability,5,4,N/A,0,Yes,72,We evaluated alternatives but the switching cost and migration risk outweighed the benefits.
+C0586,Retained,Enterprise,44,Technology,11-50 employees,South,Product Quality,3,4,N/A,4,Yes,1082,Support has improved recently and we are seeing more value from the Enterprise features.
+C0587,Churned,Basic,32,Finance,11-50 employees,South,Product Quality,2,3,Yes,6,No,62,The product does not integrate with our existing tools which makes it very difficult to use.
+C0588,Churned,Enterprise,5,Retail,201+ employees,West,Competitor Switch,2,1,Yes,6,No,980,After two years we decided to consolidate our tools and RetainIQ did not make the final cut.
+C0589,Churned,Pro,6,Technology,51-200 employees,West,Customer Support,1,1,No,10,No,166,Every time we contact support we are passed between agents with no continuity.
+C0590,At-Risk,Enterprise,15,Finance,11-50 employees,Midwest,Pricing & Value,2,3,Yes,2,No,610,Our team satisfaction with the platform has dropped significantly over the past quarter.
+C0591,Retained,Pro,47,Technology,11-50 employees,Midwest,Onboarding & Usability,5,4,N/A,4,Yes,283,We are monitoring the situation but currently plan to renew pending the upcoming feature release.
+C0592,Retained,Basic,28,Retail,201+ employees,Midwest,Onboarding & Usability,5,5,N/A,2,No,64,Support has improved recently and we are seeing more value from the Enterprise features.
+C0593,Churned,Pro,5,Technology,51-200 employees,Midwest,Product Quality,2,1,No,5,No,279,The product does not integrate with our existing tools which makes it very difficult to use.
+C0594,Churned,Pro,1,Finance,11-50 employees,West,Pricing & Value,2,3,Yes,3,Yes,236,The annual contract pricing is not competitive. Monthly flexibility would help retain smaller teams.
+C0595,At-Risk,Basic,3,Healthcare,51-200 employees,West,Product Quality,3,3,No,2,Yes,78,We are on the fence. A proactive outreach from our account team would help retain us.
+C0596,Churned,Basic,24,Technology,11-50 employees,Midwest,Pricing & Value,2,2,No,6,Yes,70,We found a competitor offering the same core functionality at half the price.
+C0597,Churned,Pro,25,Education,11-50 employees,Northeast,Product Quality,2,3,No,7,No,149,Performance has deteriorated significantly and the product is slower than when we started.
+C0598,Churned,Basic,27,Technology,51-200 employees,South,Product Quality,2,1,No,7,No,72,Performance has deteriorated significantly and the product is slower than when we started.
+C0599,Churned,Basic,32,Retail,1-10 employees,Midwest,Customer Support,2,1,No,8,No,85,The support team does not understand our use case and the advice is often unhelpful.
+C0600,At-Risk,Pro,9,Healthcare,201+ employees,South,Product Quality,3,3,Yes,1,No,240,Pricing transparency needs to improve or we will explore other options at renewal.
